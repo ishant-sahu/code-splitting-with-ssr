@@ -1,4 +1,4 @@
-# code-splitting-with-ssr-using-sass
+# code-splitting-with-ssr
 This is an ongoing project where target is to perform Code Splitting along with SSR in React using SASS
 Project is build using React 16, Flexbox, Bootstrap Grid sytem, Webpack 4.
 
